@@ -4,7 +4,7 @@ public class Main {
 
         //what we have
         String fullName = "Annabel Nakimuli";
-//ANNA
+
         //what we want
 //        String[] nameList = {"Annabel", "Nakimuli"};
 
@@ -14,6 +14,7 @@ public class Main {
         for(String n : nameList){
             System.out.println(n);
         }
+//        ANNABEL
 
         String[] fruit = {"Apple", "Banana", "Cherry"};
         String text = String.join(" ", fruit); //glue together
